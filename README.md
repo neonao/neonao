@@ -1,3 +1,3 @@
 I'm learning how to code
 
-![coding](.github/animeh.png)
+![coding c++](https://raw.githubusercontent.com/neonao/neonao/refs/heads/main/.github/animeh.png)
